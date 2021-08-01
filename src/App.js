@@ -11,12 +11,8 @@ function App() {
         <FirstComponent />
       </header>
       <body>
-        <div>
-          <SecondComponent />
-        </div>
-        <div>
-          <ThirdComponent />
-        </div>
+        <SecondComponent />
+        <ThirdComponent />
       </body>
       <footer>
         <FourthComponent />
